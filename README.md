@@ -1,5 +1,5 @@
 # WheatSouSi
-**WheatSouSi: Wheat source-sink relationships and limitations**
+**Wheat source-sink relationships and limitations**
 
 Hi, 
 
